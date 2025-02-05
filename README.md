@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
-<h3 align="center">I am passionate python developer || data science|| Ai engineer || Python backend developer from Pakistan</h3>
+<h3 align="center">I am passionate Genrative ai engineer || data science|| Ai engineer || Python backend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaboss&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaboss" /> </p>
 
