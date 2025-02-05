@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Automated crop disease detection](https://github.com/mustafaboss/final.project/tree/main)
 
-- 🌱 I’m currently learning **Python backend developer**
+- 🌱 I’m currently learning **Genrative ai for analytix camp**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
