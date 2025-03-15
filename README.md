@@ -11,13 +11,13 @@
 
 - 📝 I regularly write articles on [Data science](Data science)
 
-- 💬 Ask me about **Power bi ||Django || SQL || deep learning**
+- 💬 Ask me about ****chatbot sevelopment || data managment || llm models || langchain development
 
 - 📫 How to reach me **mustafashahzaib42@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mustafa-shahzaib-aa94a3224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mustafa-shahzaib-aa94a3224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- ⚡ Fun fact **I am sometime funny**
+- ⚡ Fun fact **I am passionate with my work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
