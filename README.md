@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [making chatbot update soon](https://github.com/mustafaboss/final.project/tree/main)
 
-- 🌱 I’m currently learning **Ai implementation specialist**
+- 🌱 I’m currently working as **Ai implementation specialist**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
