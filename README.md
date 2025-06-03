@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
-- 📝 I regularly write articles on [Data science](Data science)
+- 📝 I regularly write articles on Ai implementation in banking apps and finance and make voice bot
 
 - 💬 Ask me about ****chatbot development || data managment || llm models || langchain development
 
-- 📫 How to reach me **mustafashahzaib42@gmail.com** **03012955381**
+- 📫 How to reach me **mustafashahzaib42@gmail.com** **03012853681**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mustafa-shahzaib-aa94a3224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mustafa-shahzaib-aa94a3224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
