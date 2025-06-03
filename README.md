@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [making chatbot update soon](https://github.com/mustafaboss/final.project/tree/main)
 
-- 🌱 I’m currently learning **Genrative ai for analytix camp**
+- 🌱 I’m currently learning **Ai implementation specialist**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
 - 📝 I regularly write articles on [Data science](Data science)
 
-- 💬 Ask me about ****chatbot sevelopment || data managment || llm models || langchain development
+- 💬 Ask me about ****chatbot development || data managment || llm models || langchain development
 
-- 📫 How to reach me **mustafashahzaib42@gmail.com**
+- 📫 How to reach me **mustafashahzaib42@gmail.com** **03012955381**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mustafa-shahzaib-aa94a3224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/mustafa-shahzaib-aa94a3224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
@@ -38,12 +38,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on voice bot at switch pvt ltd
+- 🌱 I’m currently working as Ai implementation specialist
+- 👯 I’m looking to collaborate on chatbot and data project
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about Ai implementations 
+- 📫 How to reach me: through my number 03012853681
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
