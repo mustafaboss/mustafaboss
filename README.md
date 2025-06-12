@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaboss&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaboss" /> </p>
 
-- 🔭 I’m currently working on [making chatbot update soon](https://github.com/mustafaboss/final.project/tree/main)
+- 🔭 I’m currently working on voice agents and ai chat bot
 
 - 🌱 I’m currently working as **Ai implementation specialist**
 
